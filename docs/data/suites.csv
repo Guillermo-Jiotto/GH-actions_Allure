@@ -1,5 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri May 06 13:31:47 EEST 2022","Fri May 06 13:31:55 EEST 2022","8177","","Registration to GitHub","","Registration to GitHub","should fill registration blank","should fill registration blank",""
-"passed","Fri May 06 13:31:40 EEST 2022","Fri May 06 13:31:47 EEST 2022","7025","","Registration to GitHub","","Registration to GitHub","should paste email and press SignUp-button","should paste email and press SignUp-button",""
-"skipped","Fri May 06 13:29:04 EEST 2022","Fri May 06 13:29:04 EEST 2022","0","","Registration to GitHub","","Registration to GitHub","should paste email and press SignUp-button","should paste email and press SignUp-button",""
-"skipped","Fri May 06 13:29:04 EEST 2022","Fri May 06 13:29:04 EEST 2022","0","","Registration to GitHub","","Registration to GitHub","should fill registration blank","should fill registration blank",""
