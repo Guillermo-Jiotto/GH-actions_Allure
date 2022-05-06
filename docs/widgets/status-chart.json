@@ -1,0 +1,41 @@
+[ {
+  "uid" : "605008ca7032d541",
+  "name" : "should fill registration blank",
+  "time" : {
+    "start" : 1651833107574,
+    "stop" : 1651833115751,
+    "duration" : 8177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "df6ee1b78198304b",
+  "name" : "should paste email and press SignUp-button",
+  "time" : {
+    "start" : 1651833100549,
+    "stop" : 1651833107574,
+    "duration" : 7025
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "344287959481a9bb",
+  "name" : "should paste email and press SignUp-button",
+  "time" : {
+    "start" : 1651832944220,
+    "stop" : 1651832944220,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "1ce27ad16280f239",
+  "name" : "should fill registration blank",
+  "time" : {
+    "start" : 1651832944221,
+    "stop" : 1651832944221,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]

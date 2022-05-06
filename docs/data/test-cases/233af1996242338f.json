@@ -1,0 +1,62 @@
+{
+  "uid" : "233af1996242338f",
+  "name" : "should fill registration blank",
+  "fullName" : "Registration to GitHub.should fill registration blank",
+  "historyId" : "c6f11d9f044190a5e4328c12fee5b736",
+  "time" : {
+    "start" : 1651832988440,
+    "stop" : 1651833048457,
+    "duration" : 60017
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Timeout of 60000ms exceeded. The execution in the test \"Registration to GitHub should fill registration blank\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (D:\\Hometask-Projects-LQ\\GH-actions_Allure\\test\\specs\\signup.github.js)",
+  "statusTrace" : "Error: Timeout of 60000ms exceeded. The execution in the test \"Registration to GitHub should fill registration blank\" took too long. Try to reduce the run time or increase your timeout for test specs (https://webdriver.io/docs/timeouts). (D:\\Hometask-Projects-LQ\\GH-actions_Allure\\test\\specs\\signup.github.js)\n                    at createTimeoutError (D:\\Hometask-Projects-LQ\\GH-actions_Allure\\node_modules\\mocha\\lib\\errors.js:498:15)\n                    at Test.Runnable._timeoutError (D:\\Hometask-Projects-LQ\\GH-actions_Allure\\node_modules\\mocha\\lib\\runnable.js:431:10)\n                    at Timeout.<anonymous> (D:\\Hometask-Projects-LQ\\GH-actions_Allure\\node_modules\\mocha\\lib\\runnable.js:246:24)\n                    at listOnTimeout (node:internal/timers:559:17)\n                    at processTimers (node:internal/timers:502:7)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration to GitHub"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration to GitHub"
+  }, {
+    "name" : "testMethod",
+    "value" : "should fill registration blank"
+  }, {
+    "name" : "package",
+    "value" : "Registration to GitHub"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "233af1996242338f.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

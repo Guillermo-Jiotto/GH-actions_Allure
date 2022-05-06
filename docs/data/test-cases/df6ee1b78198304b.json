@@ -1,0 +1,70 @@
+{
+  "uid" : "df6ee1b78198304b",
+  "name" : "should paste email and press SignUp-button",
+  "fullName" : "Registration to GitHub.should paste email and press SignUp-button",
+  "historyId" : "ae664b8c24fa4aa43ab0dc641764d221",
+  "time" : {
+    "start" : 1651833100549,
+    "stop" : 1651833107574,
+    "duration" : 7025
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Registration to GitHub"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration to GitHub"
+  }, {
+    "name" : "testMethod",
+    "value" : "should paste email and press SignUp-button"
+  }, {
+    "name" : "package",
+    "value" : "Registration to GitHub"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.54"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "16b1d2fd5ec43dca",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651832981282,
+        "stop" : 1651832988439,
+        "duration" : 7157
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "df6ee1b78198304b.json",
+  "parameterValues" : [ "chrome-101.0.4951.54" ]
+}

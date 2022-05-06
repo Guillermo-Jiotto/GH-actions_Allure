@@ -1,0 +1,52 @@
+{
+  "uid" : "344287959481a9bb",
+  "name" : "should paste email and press SignUp-button",
+  "fullName" : "Registration to GitHub.should paste email and press SignUp-button",
+  "historyId" : "6e202e0e1dd9d927da3bd386613be874",
+  "time" : {
+    "start" : 1651832944220,
+    "stop" : 1651832944220,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Test ignored",
+  "statusTrace" : "undefined",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Registration to GitHub"
+  }, {
+    "name" : "testClass",
+    "value" : "Registration to GitHub"
+  }, {
+    "name" : "testMethod",
+    "value" : "should paste email and press SignUp-button"
+  }, {
+    "name" : "package",
+    "value" : "Registration to GitHub"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "344287959481a9bb.json",
+  "parameterValues" : [ ]
+}
